@@ -1,2 +1,6 @@
 # hello-world
-My First Repositry
+=============
+
+Thies Is My First Repositry
+
+Não se preoculpe estou mais preoculpado que VOCÊ
