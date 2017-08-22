@@ -3,4 +3,4 @@
 
 Thies Is My First Repositry
 
-Não se preoculpe estou mais preoculpado que VOCÊ
+Não se preocupe estou mais preocupado que VOCÊ
